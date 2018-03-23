@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Group15</string>
+    <string name="run">RUN</string>
+    <string name="stop">STOP</string>
+</resources>
